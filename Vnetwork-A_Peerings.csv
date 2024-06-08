@@ -1,0 +1,3 @@
+Name,Peering sync status,Peering state,Remote virtual network name,Virtual network gateway or route server
+ANM_22740FFA83EB4B03043CC7E_Vnetwork-A_Vnetwork-B_3733068009,Fully Synchronized,Connected,Vnetwork-B,Disabled
+ANM_22740FFA83EB4B03043CC7E_Vnetwork-A_Vnetwork-C_4221439798,Fully Synchronized,Connected,Vnetwork-C,Disabled
